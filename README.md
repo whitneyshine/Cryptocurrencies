@@ -1,7 +1,7 @@
 # Cryptocurrencies<br><br>
 
 ## Background<br><br>
-Martha and I have done our research. We understand what unsupervised learning is used for, how to process data, how to cluster, how to reduce your dimensions, and how to reduce the principal components using PCA. It’s time to put all these skills to use by creating an analysis for our clients who are preparing to get into the cryptocurrency market.<br><br>
+Martha and I have done our research. We understand what unsupervised learning is used for, how to process data, how to cluster, how to reduce your dimensions, and how to reduce the principal components using PCA. It’s time to put all these skills to use by creating an analysis for our clients who are preparing to get into the cryptocurrency market.<br>
 
 Martha is a senior manager for the Advisory Services Team at Accountability Accounting, one of our most important clients. Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. So, they’ve asked us to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.<br><br>
 
