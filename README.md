@@ -9,7 +9,6 @@ The data Martha will be working with is not ideal, so it will need to be process
 
 ## What Has Been Created
 This new project consists of four technical analysis deliverables. We have submitted the following:<br><br>
-
 * Preprocessing the Data for PCA<br>
 * Reducing Data Dimensions Using PCA<br>
 * Clustering Cryptocurrencies Using K-means<br>
