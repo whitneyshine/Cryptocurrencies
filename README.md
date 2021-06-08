@@ -20,5 +20,9 @@ This new project consists of four technical analysis deliverables. We have submi
 ### 3D Scatter Plot<br><br>
 ![3D](3D.png)<br><br>
 
+### Tradable Cryptocurrencies<br><br>
+![hvplot](hvplot.png)<br><br>
+
+
 ### Scatter Plot<br><br>
 ![scatter_plot](scatter_plot.png)
