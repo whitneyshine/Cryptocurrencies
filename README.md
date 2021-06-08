@@ -13,3 +13,12 @@ This new project consists of four technical analysis deliverables. We have submi
 * Reducing Data Dimensions Using PCA<br>
 * Clustering Cryptocurrencies Using K-means<br>
 * Visualizing Cryptocurrencies Results<br><br>
+
+### Elbow Curve<br><br>
+![elbow_curve](elbow_curve.png)<br><br>
+
+### 3D Scatter Plot<br><br>
+![3D](3D.png)<br><br>
+
+### Scatter Plot<br><br>
+![scatter_plot](scatter_plot.png)
